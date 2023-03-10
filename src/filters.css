@@ -9,8 +9,8 @@
 }
 .css-1f2kvjf-MuiFormControlLabel-root {
   display: flex;
-  width: 100%;
-  justify-content: space-between;
+  width: 100% !important;
+  justify-content: space-between !important;
 }
 .css-1vy1emy-MuiButtonBase-root-MuiCheckbox-root:hover {
   background-color: rgb(58 75 92 / 38%);
