@@ -1,0 +1,65 @@
+.filters {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.filters__container {
+  width: 375px;
+}
+.css-1f2kvjf-MuiFormControlLabel-root {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.css-1vy1emy-MuiButtonBase-root-MuiCheckbox-root:hover {
+  background-color: rgb(58 75 92 / 38%);
+}
+.fieldset.MuiOutlinedInput-notchedOutline.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border: 1px solid black;
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  color: black;
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+  border: 1px solid white;
+}
+.css-1f2kvjf-MuiFormControlLabel-root {
+  margin-left: 0 !important;
+  padding-bottom: 24px;
+}
+select {
+  line-height: 1.62rem;
+  font-size: 1rem;
+  font-weight: 800;
+  color: rgb(112, 216, 189);
+  width: 120px;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  background: transparent;
+}
+select:focus {
+  outline: none;
+}
+input[type="number"] {
+  width: 75px;
+  font-size: 1rem;
+  font-weight: 800;
+  color: rgb(112, 216, 189);
+  text-align: center;
+  border: none;
+  background: transparent;
+}
+p {
+  line-height: 1.62;
+  margin-bottom: 24px;
+}
+.select__container {
+  display: flex;
+}
+.slider {
+  margin-bottom: 24px;
+}

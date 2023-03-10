@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  padding: 20px 0px;
+}
+
+.main__filter__container {
+  flex: 1fr;
+  width: 100%;
+}
+.main__result__container {
+  flex: 1fr;
+  width: 100%;
+}

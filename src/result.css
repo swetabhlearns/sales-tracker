@@ -1,0 +1,21 @@
+.result__container {
+  width: 375px;
+}
+.result__container > div {
+  margin-bottom: 24px;
+}
+.result__forecast > h1 {
+  font-size: 6rem;
+}
+.final__forecast {
+  font-size: 4rem !important;
+}
+.result__preview {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+h1 {
+  color: rgb(112, 216, 189);
+}
